@@ -25,7 +25,7 @@ In this challenge i had to develop a responsive website which can adapt accordin
 
 ### Links
 
-- Solution URL: 
+- Solution URL: https://github.com/varanasicoder/FM-product-card.git
 - Live Site URL: https://glowing-sunshine-5ed741.netlify.app/
 
 ## My process
