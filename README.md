@@ -20,12 +20,13 @@ This is a product vard challenge from frontend mentor.
 In this challenge i had to develop a responsive website which can adapt according to screen sizes.
 
 ### Screenshot
+![Frontend Mentor _ Product preview card component](https://user-images.githubusercontent.com/122192763/217407114-fb545a47-b7a2-433e-9af0-365c2b296689.png)
 
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: 
+- Live Site URL: https://glowing-sunshine-5ed741.netlify.app/
 
 ## My process
 In this challenge i had used responsive css and media query to built the product card design.
